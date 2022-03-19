@@ -9,3 +9,6 @@
 
 - Escala da capacidade computacional (CPU, Disco, Memória, Rede)
 - Lógica por trás do software (Algoritimos, queries, overhead de frameworkds)
+- Concorrência e paralelismo
+- Banco de dados
+- Caching
