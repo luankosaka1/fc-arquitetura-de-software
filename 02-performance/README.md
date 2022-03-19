@@ -1,0 +1,5 @@
+# Performance
+
+- Performance
+- Escalabilidade
+- Resiliência
